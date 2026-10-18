@@ -1,115 +1,111 @@
 <table>
 <tr>
-<td width="184" valign="middle">
-<img src="assets/profile-headshot.jpg" alt="Parth Kulkarni, professional headshot" width="170" />
-</td>
-<td valign="middle">
+<td width="77%" valign="middle">
 
 <h1>Parth Kulkarni</h1>
 
-<strong>Software Engineer | Backend Systems · Applied AI · Cloud Infrastructure</strong>
+<p><strong>Software engineer working across AI, backend systems, and cloud infrastructure.</strong></p>
 
-<p>I build Python services and applied AI products, with a focus on performance, reliability, and practical ML integration. After three years in software engineering, I'm joining the <strong>University of Florida's M.S. in Computer Science program in Spring 2027</strong>.</p>
+<p>I build APIs, AI applications, and systems that connect models with real products. My work spans Python services, LLM integration, data pipelines, and performance engineering.</p>
 
-<a href="https://www.linkedin.com/in/parth-u-kulkarni/">LinkedIn</a> · <a href="mailto:parthkulkarni1887@gmail.com">Email</a> · <a href="https://github.com/HOWITTZER99?tab=repositories">Repositories</a>
+<p><a href="https://www.linkedin.com/in/parth-u-kulkarni/">LinkedIn</a> · <a href="mailto:parthkulkarni1887@gmail.com">Email</a> · <a href="https://github.com/HOWITTZER99?tab=repositories">All repositories</a></p>
 
+<sub>Incoming MS Computer Science · University of Florida · Spring 2027</sub>
+
+</td>
+<td width="23%" align="right" valign="middle"><img src="./assets/profile-headshot.jpg" width="112" alt="Parth Kulkarni professional headshot" /></td>
+</tr>
+</table>
+
+## What I build
+
+<table>
+<tr>
+<td width="33%" valign="top">
+<p><strong>Backend engineering</strong></p>
+<p>Python services, REST APIs, FastAPI/Django/Flask, service integration, caching, SQL, and performance optimization.</p>
+</td>
+<td width="34%" valign="top">
+<p><strong>Applied AI and ML</strong></p>
+<p>LLM-powered workflows, voice AI, NLP, computer vision, recommender systems, and model integration.</p>
+</td>
+<td width="33%" valign="top">
+<p><strong>Cloud and systems</strong></p>
+<p>AWS deployments, Docker, Redis, MySQL, microservices, and an increasing focus on distributed AI systems.</p>
 </td>
 </tr>
 </table>
 
-<table>
-<tr>
-<td width="54%" valign="top">
-<p><strong>EXPERIENCE AT A GLANCE</strong></p>
-<p><strong>Software Engineer · Harbinger Group</strong>  <br/>July 2023 – present</p>
-<p>Backend engineering, AI applications, hiring technology, cloud services, and API performance.</p>
-<p><strong>Previously:</strong> ML Intern at Datasmith AI Solutions and Data Analyst Intern at Magicflare Software Services.</p>
-</td>
-<td width="46%" valign="top">
-<p><strong>EDUCATION</strong></p>
-<p><strong>University of Florida</strong>  <br/>M.S. Computer Science · Incoming, Spring 2027</p>
-<p><strong>Savitribai Phule Pune University</strong>  <br/>B.E. · 2019–2023 · <strong>8.41/10 CGPA</strong>  <br/>Honors in Data Science</p>
-</td>
-</tr>
-</table>
-
-## Engineering experience
-
-| Role | Selected work |
-|:--|:--|
-| **Harbinger Group**<br>Software Engineer<br><sub>Jul 2023 – present</sub> | Built an AI interview agent with **Python, FastAPI, voice recognition, and OpenAI APIs**, used for **500+ employee evaluations**; developed Django/Flask APIs and an Indeed job-sync microservice for **Apploi's healthcare hiring platform**, using Redis, MySQL, Docker, and AWS; contributed full-stack features and performance improvements for **ImaginBC**. |
-| **Datasmith AI Solutions**<br>Machine Learning Intern<br><sub>Jan – May 2022</sub> | Trained and tuned ML models; worked on satellite imagery, rainfall prediction, and geospatial analysis. |
-| **Magicflare Software Services**<br>Data Analyst Intern<br><sub>Aug – Dec 2021</sub> | Developed a computer-vision pipeline to identify shipping containers and analyzed vessel-tracking data for logistics insights. |
-
-**Performance work:** Increased API throughput by **55%** by replacing Django ORM access with Flask and raw SQL.
-
-## Projects & technical work
+## Featured projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong><a href="https://github.com/HOWITTZER99/neo_screener">Neo Screener →</a></strong>  <br/><sub>PUBLIC REPOSITORY · FINTECH / NLP</sub></p>
-<p>Experimental financial-risk analytics combining market data, FinBERT sentiment, historical value-at-risk, and a FastAPI/Streamlit interface.</p>
-<p><sub>Prototype: portfolio optimization and some data paths still require validation.</sub></p>
+<p><strong><a href="https://github.com/HOWITTZER99/neo_screener">Neo Screener ↗</a></strong><br/><sub>PUBLIC · FINANCIAL ANALYTICS</sub></p>
+<p>Explores market data, financial risk metrics, and NLP-based sentiment with FinBERT.</p>
+<p><code>FastAPI</code> <code>Python</code> <code>Streamlit</code> <code>Transformers</code></p>
+<p><sub>Experimental prototype; optimization, data retrieval and tests are still being improved.</sub></p>
 </td>
 <td width="50%" valign="top">
-<p><strong><a href="https://github.com/HOWITTZER99/Movie--Recommendation">Movie Recommendation →</a></strong>  <br/><sub>PUBLIC REPOSITORY · RECOMMENDER SYSTEMS</sub></p>
-<p>Content-based movie recommendations using feature representations and cosine similarity, delivered through a Python web application.</p>
+<p><strong><a href="https://github.com/HOWITTZER99/Movie--Recommendation">Movie Recommendation ↗</a></strong><br/><sub>PUBLIC · RECOMMENDATION SYSTEMS</sub></p>
+<p>A content-based movie recommendation app using feature extraction and cosine similarity.</p>
+<p><code>Python</code> <code>Flask</code> <code>scikit-learn</code></p>
+<p><sub>Early applied-ML project.</sub></p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<p><strong>Multimodal depression detection</strong>  <br/><sub>ACADEMIC CAPSTONE · 2022–2023</sub></p>
-<p>Led a project combining text, audio, and facial-expression signals to model depression severity using multimodal ML.</p>
+<p><strong>Voice AI Interview Agent</strong><br/><sub>PROFESSIONAL WORK · PRIVATE SOURCE</sub></p>
+<p>Worked on a voice-based interview platform combining LLM APIs, speech workflows and backend evaluation, used in <strong>500+ employee evaluations</strong>.</p>
+<p><code>Python</code> <code>FastAPI</code> <code>LLM APIs</code></p>
 </td>
 <td valign="top">
-<p><strong>Cloud-hosted trading application</strong>  <br/><sub>ENGINEERING PROJECT · NOT PUBLICLY LINKED</sub></p>
-<p>Migrated a trading application to AWS using FastAPI, Docker, and EC2, and explored ML-based price predictions and CI/CD.</p>
+<p><strong>Multimodal ML Capstone</strong><br/><sub>ACADEMIC WORK · NOT PUBLICLY LINKED</sub></p>
+<p>Combined text, audio, and facial-expression signals to study depression severity estimation.</p>
+<p><code>Machine Learning</code> <code>NLP</code> <code>Computer Vision</code></p>
 </td>
 </tr>
 </table>
 
-## Technical toolkit
+<sub>More exploratory work: <a href="https://github.com/HOWITTZER99/sellcarpriceprediction">Car Price Prediction</a> · <a href="https://github.com/HOWITTZER99?tab=repositories">browse my repositories ↗</a></sub>
+
+## Languages & tools
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<p><strong>Backend & programming</strong></p>
-<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/python/python-original.svg" alt="Python" title="Python" width="36" height="36" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="36" height="36" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" width="36" height="36" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/django/django-plain.svg" alt="Django" title="Django" width="36" height="36" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/flask/flask-original.svg" alt="Flask" title="Flask" width="36" height="36" /></p>
-<p><sub>Python · JavaScript · SQL · FastAPI · Django · Flask · SQLAlchemy · REST APIs · Node.js</sub></p>
-<p><strong>AI / machine learning</strong></p>
-<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" width="36" height="36" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/opencv/opencv-original.svg" alt="OpenCV" title="OpenCV" width="36" height="36" /></p>
-<p><sub>PyTorch · TensorFlow · Transformers · Hugging Face · NLP · OpenCV · LangChain · RAG · OpenAI API</sub></p>
+<p><strong>Languages and backend</strong></p>
+<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/python/python-original.svg" height="32" width="32" alt="Python" title="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/javascript/javascript-original.svg" height="32" width="32" alt="JavaScript" title="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/fastapi/fastapi-original.svg" height="32" width="32" alt="FastAPI" title="FastAPI" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/django/django-plain.svg" height="32" width="32" alt="Django" title="Django" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/flask/flask-original.svg" height="32" width="32" alt="Flask" title="Flask" /></p>
+<p><sub>Python · JavaScript · SQL · FastAPI · Django · Flask · REST APIs</sub></p>
+
+<p><strong>AI / ML</strong></p>
+<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/pytorch/pytorch-original.svg" height="32" width="32" alt="PyTorch" title="PyTorch" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/tensorflow/tensorflow-original.svg" height="32" width="32" alt="TensorFlow" title="TensorFlow" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/opencv/opencv-original.svg" height="32" width="32" alt="OpenCV" title="OpenCV" /></p>
+<p><sub>PyTorch · TensorFlow · Transformers · NLP · OpenCV · LLM APIs</sub></p>
 </td>
 <td width="50%" valign="top">
-<p><strong>Infrastructure & cloud</strong></p>
-<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" title="AWS" width="36" height="36" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="36" height="36" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" /></p>
-<p><sub>AWS (EC2, S3, Lambda) · Docker · Kubernetes · Azure · CI/CD · Linux</sub></p>
+<p><strong>Cloud and infrastructure</strong></p>
+<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32" width="32" alt="AWS" title="AWS" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/docker/docker-original.svg" height="32" width="32" alt="Docker" title="Docker" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/kubernetes/kubernetes-original.svg" height="32" width="32" alt="Kubernetes" title="Kubernetes" /></p>
+<p><sub>AWS · Docker · Kubernetes · Linux · CI/CD</sub></p>
+
 <p><strong>Data</strong></p>
-<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="36" height="36" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/redis/redis-original.svg" alt="Redis" title="Redis" width="36" height="36" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></p>
-<p><sub>MySQL · Redis · MongoDB · Pandas · NumPy</sub></p>
+<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/mysql/mysql-original.svg" height="32" width="32" alt="MySQL" title="MySQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/redis/redis-original.svg" height="32" width="32" alt="Redis" title="Redis" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/mongodb/mongodb-original.svg" height="32" width="32" alt="MongoDB" title="MongoDB" /></p>
+<p><sub>MySQL · Redis · MongoDB · Pandas</sub></p>
 </td>
 </tr>
 </table>
 
-## Research interests & involvement
+## What I'm exploring next
 
-I'm interested in **distributed AI, efficient model inference, resource-aware ML, and research-computing infrastructure**. At UF, I hope to work on systems questions that can be evaluated through experiments, benchmarks, and useful software.
+**Efficient AI inference, distributed systems, federated learning, and research-computing infrastructure.** I'm interested in practical systems research at UF and in building infrastructure that makes AI applications faster and more dependable.
 
-- **Smart India Hackathon:** National-level finalist; co-led a Unity AR and object-detection prototype.
-- **Association of Computer Engineering Students:** Vice Secretary, 2020–2021; helped organize technical events and workshops.
-- **Make A Difference:** Volunteer supporting students with academic and transition planning.
-
----
-
-<sub>**Contact:** [parthkulkarni1887@gmail.com](mailto:parthkulkarni1887@gmail.com) · [LinkedIn](https://www.linkedin.com/in/parth-u-kulkarni/) · Pune, India</sub>
+<sub>Background: Software Engineer at Harbinger Group · API performance improvement associated with a 55% throughput gain · Smart India Hackathon finalist.</sub>
