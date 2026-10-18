@@ -9,28 +9,15 @@ I build Python services and applied AI products, with a focus on performance, re
 <table>
 <tr>
 <td width="54%" valign="top">
-
-**EXPERIENCE AT A GLANCE**
-
-**Software Engineer · Harbinger Group**  
-July 2023 – present
-
-Backend engineering, AI applications, hiring technology, cloud services, and API performance.
-
-**Previously:** ML Intern at Datasmith AI Solutions and Data Analyst Intern at Magicflare Software Services.
-
+<p><strong>EXPERIENCE AT A GLANCE</strong></p>
+<p><strong>Software Engineer · Harbinger Group</strong>  <br/>July 2023 – present</p>
+<p>Backend engineering, AI applications, hiring technology, cloud services, and API performance.</p>
+<p><strong>Previously:</strong> ML Intern at Datasmith AI Solutions and Data Analyst Intern at Magicflare Software Services.</p>
 </td>
 <td width="46%" valign="top">
-
-**EDUCATION**
-
-**University of Florida**  
-M.S. Computer Science · Incoming, Spring 2027
-
-**Savitribai Phule Pune University**  
-B.E. · 2019–2023 · **8.41/10 CGPA**  
-Honors in Data Science
-
+<p><strong>EDUCATION</strong></p>
+<p><strong>University of Florida</strong>  <br/>M.S. Computer Science · Incoming, Spring 2027</p>
+<p><strong>Savitribai Phule Pune University</strong>  <br/>B.E. · 2019–2023 · <strong>8.41/10 CGPA</strong>  <br/>Honors in Data Science</p>
 </td>
 </tr>
 </table>
@@ -50,40 +37,23 @@ Honors in Data Science
 <table>
 <tr>
 <td width="50%" valign="top">
-
-**[Neo Screener →](https://github.com/HOWITTZER99/neo_screener)**  
-<sub>PUBLIC REPOSITORY · FINTECH / NLP</sub>
-
-Experimental financial-risk analytics combining market data, FinBERT sentiment, historical value-at-risk, and a FastAPI/Streamlit interface.
-
-<sub>Prototype: portfolio optimization and some data paths still require validation.</sub>
-
+<p><strong><a href="https://github.com/HOWITTZER99/neo_screener">Neo Screener →</a></strong>  <br/><sub>PUBLIC REPOSITORY · FINTECH / NLP</sub></p>
+<p>Experimental financial-risk analytics combining market data, FinBERT sentiment, historical value-at-risk, and a FastAPI/Streamlit interface.</p>
+<p><sub>Prototype: portfolio optimization and some data paths still require validation.</sub></p>
 </td>
 <td width="50%" valign="top">
-
-**[Movie Recommendation →](https://github.com/HOWITTZER99/Movie--Recommendation)**  
-<sub>PUBLIC REPOSITORY · RECOMMENDER SYSTEMS</sub>
-
-Content-based movie recommendations using feature representations and cosine similarity, delivered through a Python web application.
-
+<p><strong><a href="https://github.com/HOWITTZER99/Movie--Recommendation">Movie Recommendation →</a></strong>  <br/><sub>PUBLIC REPOSITORY · RECOMMENDER SYSTEMS</sub></p>
+<p>Content-based movie recommendations using feature representations and cosine similarity, delivered through a Python web application.</p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-
-**Multimodal depression detection**  
-<sub>ACADEMIC CAPSTONE · 2022–2023</sub>
-
-Led a project combining text, audio, and facial-expression signals to model depression severity using multimodal ML.
-
+<p><strong>Multimodal depression detection</strong>  <br/><sub>ACADEMIC CAPSTONE · 2022–2023</sub></p>
+<p>Led a project combining text, audio, and facial-expression signals to model depression severity using multimodal ML.</p>
 </td>
 <td valign="top">
-
-**Cloud-hosted trading application**  
-<sub>ENGINEERING PROJECT · NOT PUBLICLY LINKED</sub>
-
-Migrated a trading application to AWS using FastAPI, Docker, and EC2, and explored ML-based price predictions and CI/CD.
-
+<p><strong>Cloud-hosted trading application</strong>  <br/><sub>ENGINEERING PROJECT · NOT PUBLICLY LINKED</sub></p>
+<p>Migrated a trading application to AWS using FastAPI, Docker, and EC2, and explored ML-based price predictions and CI/CD.</p>
 </td>
 </tr>
 </table>
@@ -92,21 +62,11 @@ Migrated a trading application to AWS using FastAPI, Docker, and EC2, and explor
 
 <table>
 <tr><td width="50%" valign="top">
-
-**Backend & programming**  
-Python · JavaScript · SQL · FastAPI · Django · Flask · SQLAlchemy · REST APIs · Node.js
-
-**AI / machine learning**  
-PyTorch · TensorFlow · Transformers · Hugging Face · NLP · OpenCV · LangChain · RAG · OpenAI API
-
+<p><strong>Backend & programming</strong>  <br/>Python · JavaScript · SQL · FastAPI · Django · Flask · SQLAlchemy · REST APIs · Node.js</p>
+<p><strong>AI / machine learning</strong>  <br/>PyTorch · TensorFlow · Transformers · Hugging Face · NLP · OpenCV · LangChain · RAG · OpenAI API</p>
 </td><td width="50%" valign="top">
-
-**Infrastructure & cloud**  
-AWS (EC2, S3, Lambda) · Docker · Kubernetes · Azure · CI/CD · Linux
-
-**Data**  
-MySQL · Redis · MongoDB · Pandas · NumPy
-
+<p><strong>Infrastructure & cloud</strong>  <br/>AWS (EC2, S3, Lambda) · Docker · Kubernetes · Azure · CI/CD · Linux</p>
+<p><strong>Data</strong>  <br/>MySQL · Redis · MongoDB · Pandas · NumPy</p>
 </td></tr>
 </table>
 
