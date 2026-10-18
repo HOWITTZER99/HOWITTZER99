@@ -72,13 +72,34 @@
 ## Technical toolkit
 
 <table>
-<tr><td width="50%" valign="top">
-<p><strong>Backend & programming</strong>  <br/>Python · JavaScript · SQL · FastAPI · Django · Flask · SQLAlchemy · REST APIs · Node.js</p>
-<p><strong>AI / machine learning</strong>  <br/>PyTorch · TensorFlow · Transformers · Hugging Face · NLP · OpenCV · LangChain · RAG · OpenAI API</p>
-</td><td width="50%" valign="top">
-<p><strong>Infrastructure & cloud</strong>  <br/>AWS (EC2, S3, Lambda) · Docker · Kubernetes · Azure · CI/CD · Linux</p>
-<p><strong>Data</strong>  <br/>MySQL · Redis · MongoDB · Pandas · NumPy</p>
-</td></tr>
+<tr>
+<td width="50%" valign="top">
+<p><strong>Backend & programming</strong></p>
+<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/python/python-original.svg" alt="Python" title="Python" width="36" height="36" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="36" height="36" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" width="36" height="36" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/django/django-plain.svg" alt="Django" title="Django" width="36" height="36" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/flask/flask-original.svg" alt="Flask" title="Flask" width="36" height="36" /></p>
+<p><sub>Python · JavaScript · SQL · FastAPI · Django · Flask · SQLAlchemy · REST APIs · Node.js</sub></p>
+<p><strong>AI / machine learning</strong></p>
+<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" width="36" height="36" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/opencv/opencv-original.svg" alt="OpenCV" title="OpenCV" width="36" height="36" /></p>
+<p><sub>PyTorch · TensorFlow · Transformers · Hugging Face · NLP · OpenCV · LangChain · RAG · OpenAI API</sub></p>
+</td>
+<td width="50%" valign="top">
+<p><strong>Infrastructure & cloud</strong></p>
+<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" title="AWS" width="36" height="36" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="36" height="36" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" /></p>
+<p><sub>AWS (EC2, S3, Lambda) · Docker · Kubernetes · Azure · CI/CD · Linux</sub></p>
+<p><strong>Data</strong></p>
+<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="36" height="36" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/redis/redis-original.svg" alt="Redis" title="Redis" width="36" height="36" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></p>
+<p><sub>MySQL · Redis · MongoDB · Pandas · NumPy</sub></p>
+</td>
+</tr>
 </table>
 
 ## Research interests & involvement
