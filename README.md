@@ -12,9 +12,9 @@
 
 <p><em>I build AI-enabled products and the backend systems that make them reliable, useful, and scalable.</em></p>
 
-[![Portfolio](https://img.shields.io/badge/Explore_My_Repositories-0B1726?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HOWITTZER99?tab=repositories)
-[![Email](https://img.shields.io/badge/Let's_Connect-166885?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parthkulkarni1887@gmail.com)
-[![UF](https://img.shields.io/badge/University_of_Florida-MSCS_2027-FA4616?style=for-the-badge)](https://www.cise.ufl.edu/)
+<a href="https://github.com/HOWITTZER99?tab=repositories"><img alt="Explore repositories" src="https://img.shields.io/badge/Explore_My_Repositories-0B1726?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:parthkulkarni1887@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Let's_Connect-166885?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.cise.ufl.edu/"><img alt="University of Florida MSCS" src="https://img.shields.io/badge/University_of_Florida-MSCS_2027-FA4616?style=for-the-badge" /></a>
 
 </div>
 
