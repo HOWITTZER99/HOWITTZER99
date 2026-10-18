@@ -4,13 +4,13 @@
 
 <br/>
 
-# Hey, I'm Parth Kulkarni 👋
+<h1>Hey, I'm Parth Kulkarni 👋</h1>
 
-### Software Engineer • AI Systems • Distributed Infrastructure
+<h3>Software Engineer • AI Systems • Distributed Infrastructure</h3>
 
-**Incoming M.S. Computer Science @ University of Florida | Spring 2027**
+<p><strong>Incoming M.S. Computer Science @ University of Florida | Spring 2027</strong></p>
 
-*I build AI-enabled products and the backend systems that make them reliable, useful, and scalable.*
+<p><em>I build AI-enabled products and the backend systems that make them reliable, useful, and scalable.</em></p>
 
 [![Portfolio](https://img.shields.io/badge/Explore_My_Repositories-0B1726?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HOWITTZER99?tab=repositories)
 [![Email](https://img.shields.io/badge/Let's_Connect-166885?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parthkulkarni1887@gmail.com)
@@ -65,28 +65,20 @@ I care about the point where an exciting prototype becomes something people can 
 <tr>
 <td width="50%" valign="top">
 
-### [📈 Neo Screener](https://github.com/HOWITTZER99/neo_screener)
-
-**Fintech · NLP · Backend**
-
-A prototype financial analytics dashboard exploring market-data ingestion, FinBERT sentiment, historical value-at-risk, and portfolio calculations.
-
-**Stack:** Python, FastAPI, Streamlit, Transformers
-
-**Status:** Experimental prototype; known limitations and next steps are documented in the repo.
+<h3><a href="https://github.com/HOWITTZER99/neo_screener">📈 Neo Screener</a></h3>
+<p><strong>Fintech · NLP · Backend</strong></p>
+<p>A prototype financial analytics dashboard exploring market-data ingestion, FinBERT sentiment, historical value-at-risk, and portfolio calculations.</p>
+<p><strong>Stack:</strong> Python, FastAPI, Streamlit, Transformers</p>
+<p><strong>Status:</strong> Experimental prototype; known limitations and next steps are documented in the repo.</p>
 
 </td>
 <td width="50%" valign="top">
 
-### [🎬 Movie Recommendation](https://github.com/HOWITTZER99/Movie--Recommendation)
-
-**Recommendations · Applied ML**
-
-An earlier recommendation-system project focused on learning recommendation methods and translating ML concepts into an application.
-
-**Stack:** Python, recommendation algorithms
-
-**Status:** Learning-stage work, not a scaled production service.
+<h3><a href="https://github.com/HOWITTZER99/Movie--Recommendation">🎬 Movie Recommendation</a></h3>
+<p><strong>Recommendations · Applied ML</strong></p>
+<p>An earlier recommendation-system project focused on learning recommendation methods and translating ML concepts into an application.</p>
+<p><strong>Stack:</strong> Python, recommendation algorithms</p>
+<p><strong>Status:</strong> Learning-stage work, not a scaled production service.</p>
 
 </td>
 </tr>
@@ -94,7 +86,7 @@ An earlier recommendation-system project focused on learning recommendation meth
 
 <div align="center">
 
-**[Explore all repositories →](https://github.com/HOWITTZER99?tab=repositories)**
+<p><strong><a href="https://github.com/HOWITTZER99?tab=repositories">Explore all repositories →</a></strong></p>
 
 </div>
 
@@ -137,7 +129,7 @@ I'm interested in systems that combine **research depth with tangible product ut
 
 <img src="./assets/rover-avatar.svg" alt="Original little rover robot mascot" width="105" />
 
-**Useful AI. Serious engineering. Measurable impact.**
+<p><strong>Useful AI. Serious engineering. Measurable impact.</strong></p>
 
 <sub>Always learning • Building in public • Curious about systems that scale</sub>
 
