@@ -2,10 +2,6 @@
 <tr>
 <td width="77%" valign="middle">
 
-<h1>Parth Kulkarni</h1>
-
-<p><strong>Software engineer working across AI, backend systems, and cloud infrastructure.</strong></p>
-
 <p>I build APIs, AI applications, and systems that connect models with real products. My work spans Python services, LLM integration, data pipelines, and performance engineering.</p>
 
 <p><a href="https://www.linkedin.com/in/parth-u-kulkarni/">LinkedIn</a> · <a href="mailto:parthkulkarni1887@gmail.com">Email</a> · <a href="https://github.com/HOWITTZER99?tab=repositories">All repositories</a></p>
@@ -13,7 +9,6 @@
 <sub>Incoming MS Computer Science · University of Florida · Spring 2027</sub>
 
 </td>
-<td width="23%" align="right" valign="middle"><img src="./assets/profile-headshot.jpg" width="112" alt="Parth Kulkarni professional headshot" /></td>
 </tr>
 </table>
 
