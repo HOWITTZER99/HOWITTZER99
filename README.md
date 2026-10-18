@@ -1,14 +1,28 @@
 # Parth Kulkarni
 
-Software engineer working on backend systems and applied AI. Incoming MS Computer Science student at the **University of Florida (Spring 2027)**.
+Software engineer building backend services and AI-enabled products. Incoming **M.S. Computer Science student at the University of Florida (Spring 2027)**.
 
-At Harbinger Group, I worked on Python services and a voice-based AI interviewing platform used in 500+ employee evaluations. I also contributed to backend performance improvements that increased throughput by 55%.
+I’ve worked across Python services, cloud infrastructure, and applied machine learning. I’m particularly interested in the systems work that makes AI useful beyond a demo: efficient inference, reliable APIs, distributed workloads, and performance under load.
 
-I work primarily with **Python, FastAPI, Django, Flask, AWS, Docker, Redis, MySQL, and PyTorch**. I'm interested in distributed systems, efficient model inference, and infrastructure for AI and financial applications.
+### Experience
 
-**Selected work**
+- **Harbinger Group:** Developed backend services and worked on a voice-based AI interviewing platform used in **500+ employee evaluations**.
+- **Backend performance:** Contributed to improvements that increased API throughput by **55%**.
+- **Applied ML:** Experience with NLP, computer vision, and recommender systems. **Smart India Hackathon finalist**.
 
-- [Neo Screener](https://github.com/HOWITTZER99/neo_screener) — experimental financial risk analytics using FastAPI, FinBERT, and Streamlit.
-- [Movie Recommendation](https://github.com/HOWITTZER99/Movie--Recommendation) — content-based movie recommender built with Python and Flask.
+### Selected projects
 
-[Email](mailto:parthkulkarni1887@gmail.com) · [All repositories](https://github.com/HOWITTZER99?tab=repositories)
+- **[Neo Screener](https://github.com/HOWITTZER99/neo_screener)** — Experimental financial analytics platform combining market data, FinBERT sentiment, historical risk metrics, FastAPI, and Streamlit. *Prototype; limitations documented in the repository.*
+- **[Movie Recommendation](https://github.com/HOWITTZER99/Movie--Recommendation)** — Content-based recommender built with Python, Flask, and cosine similarity.
+
+### Technologies
+
+**Backend:** Python, FastAPI, Django, Flask, REST APIs  
+**AI/ML:** PyTorch, TensorFlow, Transformers, NLP, computer vision  
+**Infrastructure & data:** AWS, Docker, Redis, MySQL, MongoDB, Linux
+
+### Interests
+
+Distributed systems, efficient AI inference, model serving, and financial infrastructure. At UF, I’m interested in research that connects systems performance with real-world ML applications.
+
+[Email](mailto:parthkulkarni1887@gmail.com) · [Repositories](https://github.com/HOWITTZER99?tab=repositories)
