@@ -1,10 +1,21 @@
-# Parth Kulkarni
+<table>
+<tr>
+<td width="184" valign="middle">
+<img src="assets/profile-headshot.jpg" alt="Parth Kulkarni, professional headshot" width="170" />
+</td>
+<td valign="middle">
 
-**Software Engineer | Backend Systems · Applied AI · Cloud Infrastructure**
+<h1>Parth Kulkarni</h1>
 
-I build Python services and applied AI products, with a focus on performance, reliability, and practical ML integration. After three years in software engineering, I'm joining the **University of Florida's M.S. in Computer Science program in Spring 2027**.
+<strong>Software Engineer | Backend Systems · Applied AI · Cloud Infrastructure</strong>
 
-[LinkedIn](https://www.linkedin.com/in/parth-u-kulkarni/) · [Email](mailto:parthkulkarni1887@gmail.com) · [Repositories](https://github.com/HOWITTZER99?tab=repositories)
+<p>I build Python services and applied AI products, with a focus on performance, reliability, and practical ML integration. After three years in software engineering, I'm joining the <strong>University of Florida's M.S. in Computer Science program in Spring 2027</strong>.</p>
+
+<a href="https://www.linkedin.com/in/parth-u-kulkarni/">LinkedIn</a> · <a href="mailto:parthkulkarni1887@gmail.com">Email</a> · <a href="https://github.com/HOWITTZER99?tab=repositories">Repositories</a>
+
+</td>
+</tr>
+</table>
 
 <table>
 <tr>
