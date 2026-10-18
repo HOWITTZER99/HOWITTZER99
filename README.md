@@ -30,7 +30,7 @@ I build Python services and applied AI products, with a focus on performance, re
 | **Datasmith AI Solutions**<br>Machine Learning Intern<br><sub>Jan – May 2022</sub> | Trained and tuned ML models; worked on satellite imagery, rainfall prediction, and geospatial analysis. |
 | **Magicflare Software Services**<br>Data Analyst Intern<br><sub>Aug – Dec 2021</sub> | Developed a computer-vision pipeline to identify shipping containers and analyzed vessel-tracking data for logistics insights. |
 
-**Performance case study:** Improved API throughput by **55%** through a Django ORM to Flask/raw-SQL refactor. This work is summarized from my résumé, not a publicly benchmarked repository.
+**Performance work:** Increased API throughput by **55%** by replacing Django ORM access with Flask and raw SQL.
 
 ## Projects & technical work
 
